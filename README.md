@@ -1,4 +1,4 @@
-<h3 align="center">Django/Flask/ImageProcessing Expert</h3>
+<h3 align="center">Django/Flask/ImageProcessing/MachineLearning</h3>
 
 
 <h3 align="left">Languages and Tools:</h3>
