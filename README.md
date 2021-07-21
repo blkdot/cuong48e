@@ -1,7 +1,18 @@
-<h3 align="center">Django/Flask/ImageProcessing/MachineLearning/WebScraping</h3>
+### Hi there 👋, Welcome to My Profile
+#### I am a Blockchain expert
+![I am a Blockchain expert](./img/banner.png)
+
+I have rich experience with web development and Machine Learning.
+
+Skills: Blockchain / Ethereum / Smart Contracts / Solidity / Truffle / Web3.js / ERC20 Tokens / ERC721 Tokens / ERC1155 Tokens / DApp
+
+- 🔭 I’m currently working on this page. 
 
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.djangoproject.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg" alt="django" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/rothchildbryon)  
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=rothchildbryon&show_icons=true&locale=en&layout=compact" alt="rothchildbryon" /></p>
+<a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> 
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rothchildbryon)](https://github.com/anuraghazra/github-readme-stats)
+
+![Profile views](https://gpvc.arturio.dev/rothchildbryon)
