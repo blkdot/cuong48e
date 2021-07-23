@@ -5,6 +5,7 @@
 I have rich experience with web development and Machine Learning.
 
 Skills: Blockchain/Ethereum/Smart Contracts/Solidity/Truffle/Web3.js/ERC20 Tokens/ERC721 Tokens/ERC1155 Tokens/ DApp
+        React/Vue/Laravel
 
 - 🔭 I’m currently working on this page. 
 
