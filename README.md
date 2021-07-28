@@ -15,4 +15,3 @@ Skills: Blockchain/Ethereum/Smart Contracts/Solidity/Truffle/Web3.js/ERC20 Token
 <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> 
 
 ![Profile views](https://gpvc.arturio.dev/rothchildbryon)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cuong48e)](https://github.com/anuraghazra/github-readme-stats)
